@@ -1,22 +1,18 @@
-# Welcome to My GitHub Profile!
+# Hello 👋
 
-## 👋 I'm Steven Smith
+Welcome to my GitHub space where I blend technology and education to create impactful learning experiences. As a Learning Technology Specialist at the American Museum of Natural History, I manage and optimize the Moodle LMS to enhance both our online and physical educational programs. I'm passionate about making learning accessible and engaging through technology.
 
-I am a dedicated Learning Technology Specialist enhancing educational technologies at the American Museum of Natural History. My role involves managing the Moodle learning management system to support both online and onsite educational initiatives effectively. I ensure system integrity, implement updates, and aid in the development of innovative educational offerings. Additionally, I support Teaching, Learning, and Technology workshops, focusing on leveraging modern digital tools to enhance educational delivery and engagement.
+In addition to my role at the museum, I have also enriched my teaching experience as a Data Science Teaching Assistant at CUNY Tech Prep. Here, I've guided students through the nuances of Python, data science, and machine learning, preparing them to tackle real-world challenges. My background in business administration and data analytics helps me bridge the gap between technical expertise and strategic implementation in educational settings.
 
-Parallel to this role, I served as a Data Science Teaching Assistant at CUNY Tech Prep, where I coached students and supported instructors in the Data Science curriculum. My responsibilities ranged from conducting exploratory data analysis to instructing in advanced machine learning techniques, preparing students for both their capstone projects and professional pursuits. With a background in business administration and a focus on data analytics, I integrate technical skills with strategic insights across my roles to drive innovation and efficiency in educational settings.
-
-### 🛠️ Technologies & Tools
+## 🛠️ My Toolbox
 - **Programming Languages:** Python, SQL, R
-- **Technologies:** Moodle, Jupyter Notebook, Tableau, MS Office, Google Suite
+- **Tech Stacks:** Moodle, Jupyter Notebook, Tableau, MS Office, Google Suite
 - **Databases:** PostgreSQL, MySQL, Google BigQuery, Amazon Athena
 
-### 🌱 I’m currently learning...
-- Advanced data visualization techniques
-- Machine learning algorithms and their application in educational technology
+## 🌱 Currently Learning
+- I'm deepening my knowledge in advanced data visualization to better communicate insights.
+- Exploring further into machine learning applications in educational technology.
 
-### 📫 How to reach me:
-- Email: [sms2489@tc.columbia.edu](mailto:sms2489@tc.columbia.edu)
-- LinkedIn: [Steven Maurice Smith](http://www.linkedin.com/in/stevenmauricesmith)
-
-
+## 📫 Reach Out!
+- **Email:** [sms2489@tc.columbia.edu](mailto:sms2489@tc.columbia.edu)
+- **LinkedIn:** [Visit my Profile](http://www.linkedin.com/in/stevenmauricesmith)
